@@ -1,0 +1,4 @@
+---
+title: WACD Resolutions Chart
+---
+
